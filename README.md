@@ -8,8 +8,9 @@ Here is the example code and some document of May 22's talk.
 |   Time    |             Agenda            |
 | :-------: | :---------------------------: |
 | 1610-1630 |          What is GAN?         |
-| 1635-1735 |   Let's Bulid and Train GAN   |
-| 1740-1800 |          What is WGAN?        |
+| 1635-1700 |   Let's Bulid and Train GAN   |
+| 1710-1740 |         Lighting Talk         |
+| 1750-1800 |      GAN, GAN EVERYWHERE      |
 | 1810-1850 | Let's Bulid and Train WGAN-GP |
 | 1850-1900 |              Q&A              |
 
@@ -28,3 +29,7 @@ by Hung-yi Lee,2017
 
 [MLDS Lecture 10: Improved Generative Adversarial Network](https://youtu.be/KSN4QYgAtao)
 by Hung-yi Lee,2017
+
+[The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) 
+by hindupuravinash *A lot of paper, a lot.*
+
