@@ -8,10 +8,10 @@ Here is the example code and some document of May 22's talk.
 |   Time    |             Topic             |
 | :-------: | :---------------------------: |
 | 1610-1630 |          What is GAN?         |
-| 1635-1700 |   Let's Bulid and Train GAN   |
+| 1635-1700 |   Let's Build and Train GAN   |
 | 1710-1740 |         Lighting Talk         |
 | 1750-1800 |      GAN, GAN EVERYWHERE      |
-| 1810-1850 | Let's Bulid and Train WGAN-GP |
+| 1810-1850 | Let's Build and Train WGAN-GP |
 | 1850-1900 |              Q&A              |
 
 ## Extending Reading?!
