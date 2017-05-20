@@ -5,7 +5,7 @@
 Here is the example code and some document of May 22's talk.
 
 ## Agenda
-|   Time    |             Agenda            |
+|   Time    |             Topic             |
 | :-------: | :---------------------------: |
 | 1610-1630 |          What is GAN?         |
 | 1635-1700 |   Let's Bulid and Train GAN   |
