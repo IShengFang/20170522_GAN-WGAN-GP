@@ -6,8 +6,8 @@ Here is the example code and some document of May 22's talk.
 ## If You Have Any Question
 1. Ask me directly
 2. Use Sli.do
-  - Slido.com	
-  - #F9487
+    - Slido.com	
+    - #F9487
 ## Agenda
 |   Time    |             Topic             |
 | :-------: | :---------------------------: |
