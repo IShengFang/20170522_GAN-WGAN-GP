@@ -29,10 +29,10 @@ by Martin Arjovsky, Soumith Chintala, Léon Bottou.(2017)
 by Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville, Léon Bottou.(2017)
 
 [MLDS Lecture 9: Generative Adversarial Network](https://youtu.be/0CKeqXl5IY0)
-by Hung-yi Lee,2017
+by Hung-yi Lee.(2017)
 
 [MLDS Lecture 10: Improved Generative Adversarial Network](https://youtu.be/KSN4QYgAtao)
-by Hung-yi Lee,2017
+by Hung-yi Lee.(2017)
 
 [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo) 
 by hindupuravinash. *A lot of paper, a lot.*
